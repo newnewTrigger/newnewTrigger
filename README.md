@@ -1,4 +1,4 @@
-- Hi, I’m @newnewTrigger,a freshman major in EE at SJTU, China.
+- Hi, I’m @newnewTrigger, a freshman majoring in EE at SJTU, China.
 - I'm currently learning the Linux commands, the shell script and the git
 - How to reach me:
     - my email: changsilver52@gmail.com
