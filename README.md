@@ -1,8 +1,9 @@
-- Hi, I’m @newnewTrigger, a freshman majoring in EE at SJTU, China.
-- I'm currently learning the Linux commands, the shell script and the git
+- Hi, I’m @newnewTrigger, a Junior majoring in EE at SJTU, China.
+- If you need my coursework(工科创II, III and IV) for reference, you can find them in ../EE-I-S Repository.
 - How to reach me:
     - my email: changsilver52@gmail.com
-    - my user name in Chinese websites: 東海刷題帝皇
+    - my ID on Shuiyuan: 東海刷題帝皇
+    - my QQ number: 1466703870
 
 <!---
 newnewTrigger/newnewTrigger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
